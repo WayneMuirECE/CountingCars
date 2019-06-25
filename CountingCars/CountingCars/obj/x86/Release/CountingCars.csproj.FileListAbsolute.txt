@@ -1,0 +1,10 @@
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\bin\Release\CountingCars.exe.config
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\bin\Release\CountingCars.exe
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\bin\Release\CountingCars.pdb
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\CountingCars.Forms.MainForm.resources
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\CountingCars.Properties.Resources.resources
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\CountingCars.exe
+C:\Users\wmuir\Documents\C_Current_Projects\CountingCars\CountingCars\obj\x86\Release\CountingCars.pdb
