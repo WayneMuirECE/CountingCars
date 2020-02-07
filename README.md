@@ -1,1 +1,1 @@
-This application was built to handle manual traffic counting for a research project. The project was designed to independently verify the accuracy of an automatic traffic counting system.
+This application was built to assist in manual traffic counting and vehicle classification for a research project. The project was designed to independently verify the accuracy of an automatic traffic counting system.
